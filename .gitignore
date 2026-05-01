@@ -1,0 +1,6 @@
+# Ignorer les fichiers temporaires de Microsoft Office
+~$*.docx
+~$*.xlsx
+
+# Ignorer les fichiers temporaires de Jupyter Notebook
+.ipynb_checkpoints/
