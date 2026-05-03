@@ -13,20 +13,6 @@ Quantifier l'impact du débruitage spatial (DBSCAN) sur les performances
 prédictives d'un classificateur SVM, dans un contexte de données industrielles 
 avec un fort déséquilibre de classes (environ 3.4% de défaillances).
 
-## Pipeline
-Données brutes (10 000 obs.)
-↓
-Prétraitement (encodage ordinal + StandardScaler)
-↓
-PCA → visualisation 2D de la structure des données
-↓
-Split train/test (80/20, stratifié)
-↓
-DBSCAN sur X_train → retrait du bruit spatial
-↓
-SVM #1 (données brutes)  |  SVM #2 (données débruitées)
-↓                           ↓
-Évalués sur le même X_test
 
 ## Données
 **AI4I 2020 Predictive Maintenance Dataset** — UCI Machine Learning Repository  
