@@ -38,6 +38,6 @@ DBSCAN ne fait pas de différence entre les deux.
 - scikit-learn, pandas, numpy, matplotlib, seaborn
 
 
-## Auteurs
+## Auteur
 
 Yves Sery
