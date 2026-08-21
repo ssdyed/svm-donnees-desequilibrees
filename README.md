@@ -17,9 +17,8 @@ avec un fort déséquilibre de classes (environ 3.4% de défaillances).
 ## Données
 **AI4I 2020 Predictive Maintenance Dataset** — UCI Machine Learning Repository  
 - 10 000 observations, 6 variables explicatives  
-- Variable cible : "Machine failure" (binaire, 0 : bon, 1 : mauvais)  
-- Défi : fort déséquilibre de classes (environ 3.39% de défaillances)
-
+- Variable cible : "Machine failure" (binaire, 0 : bon, 1 : mauvais)
+  
 
 ## Résultats
 
