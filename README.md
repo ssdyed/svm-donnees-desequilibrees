@@ -28,15 +28,12 @@ avec un fort déséquilibre de classes (environ 3.4% de défaillances).
 | AUC-ROC  | 0.9304   | 0.9298     |
 
 Le débruitage par DBSCAN n'a pas amélioré les performances du SVM. 
-Les défaillances, dispersées en périphérie du nuage dense, sont 
-géométriquement similaires au bruit spatial.
-DBSCAN ne fait pas de différence entre les deux.
+Les défaillances, dispersées autour du nuage dense sont 
+géométriquement similaires au bruit spatial. On conclut que DBSCAN ne fait pas de différence entre les deux.
 
 ## Technologies
 - Python 3.11
 - scikit-learn, pandas, numpy, matplotlib, seaborn
 
 
-## Auteur
-
-Yves Sery
+Autur : Yves Sery
