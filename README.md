@@ -36,4 +36,4 @@ géométriquement similaires au bruit spatial. On conclut que DBSCAN ne fait pas
 - scikit-learn, pandas, numpy, matplotlib, seaborn
 
 
-Autur : Yves Sery
+Auteur : Yves Sery
