@@ -1,5 +1,7 @@
 # Détection et prédiction d'anomalies dans le domaine industriel
-Projet final du cours *STT 3795 Fondements théoriques en science des données*  
+Projet final du cours *STT 3795 Fondements théoriques en science des données*
+
+(Lire le rapport pour une meilleure compréhension)
 
 ## Contexte
 Dans le domaine manufacturier de haute précision, une pièce non conforme 
